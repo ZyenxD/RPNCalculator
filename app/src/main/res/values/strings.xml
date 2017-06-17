@@ -1,14 +1,4 @@
 <resources>
-    <string name="app_name">calCs</string>
+    <string name="app_name">RPN Calculator</string>
 
-    <string-array name="symbols">
-        <item>C</item>
-        <item>÷</item>
-        <item>X</item>
-        <item>Del</item>
-        <item>-</item>
-        <item>+</item>
-        <item>=</item>
-        <item>.</item>
-    </string-array>
 </resources>
